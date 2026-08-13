@@ -1,4 +1,4 @@
-# dotnet-system-design-ukrainian
+# Розбір system design на .NET - специфічних випадках 
 
 Є такий ресурс - HelloInterview - який дуже хвалять американські колеги... 
 
